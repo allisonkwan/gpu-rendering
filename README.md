@@ -1,5 +1,5 @@
-# GPU Renderering
-Vertex and fragment processors modified to render various images. Rendering tasks include:
+# GPU Rendering
+Vertex and fragment processors modified to render various images. Capable of rendering:
 - Fractals (Julia Set)
 - Bumps (Subdivision)
 - Edge Detection of an Image (Texture Lookups)
